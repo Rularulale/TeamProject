@@ -1,0 +1,238 @@
+
+@media screen and (max-width: 1920px) {
+    .wrapper{
+        width: auto;
+    }
+}
+@media screen and (max-width: 1700px) {
+    .introproducts-wsubtitle{left: 232px;}
+}
+@media screen and (max-width: 1560px) {
+    .product-ricenoodle-beefnoodle-picwrefer{
+        left: 130px;
+        align-items: center;
+    }
+    .introproducts-wsubtitle{left: 96px;}
+    .line-55{width: 1200px;        left: 10%;
+        right: 10%;}
+    .product-list{width: 100%;}
+    .productlist-ricenoodle-beefnoodle{position: unset;}
+    .feedback-1 {gap: 100px;}
+    .feedback-2 {gap: 100px;}
+    .feedback-3 {gap: 100px;}
+    .feedback-4 {gap: 100px;}
+    .feedback-5 {gap: 100px;}
+}
+
+@media screen and (max-width: 834px) {
+    .productlist-ricenoodle-beefnoodle{position: relative;}
+    .product-list{height: 3480px;}
+    .chips {
+      width: 100%; 
+      left: 0; 
+      top: 100px; 
+      height: 72px;
+    }
+    .feedback-frame{top: 1520px;transform: scale(0.9);}
+    .feedback-1 {gap: 40px;}
+    .feedback-2 {gap: 40px;}
+    .feedback-3 {gap: 40px;}
+    .feedback-4 {gap: 40px;}
+    .feedback-5 {gap: 40px;}
+    .breadcrumbs {
+      left: 64px;
+      top: 12px; 
+    }
+    .popup{
+        width: 480px;
+        height: 480px;
+    }
+    .popup-product-pic{
+        width: 400px;
+        left: 42px;
+    }
+    .product-ricenoodle-beefnoodle-picwrefer{
+        flex-direction: column;
+        gap: 40px;
+        top: 200px;
+        left: 20%;
+        right: 20%;
+    }
+    .productlist-ricenoodle-beefnoodle{
+        position: relative;
+    }
+    .line-55{
+        top: 1420px;
+        width: 630px;
+    }
+    .product-functionbuttons {
+        top: 1440px;}
+
+    .introproducts-wsubtitle{
+        left: 34px;
+    }
+    .introproducts{
+        gap: 40px;
+        padding: 0px 20px 20px 20px;
+        width: 770px;
+    }
+    .othersviewing{top: 78.8%;}
+    .chevron-left{display: none;}
+    .chatbot-default{height: 56px;width: 56px;}
+    #chat-window {
+        right: 56px;
+        bottom: 90px;
+        height: 560px;
+        width: 370px;
+    }
+    #chat-icon {
+    bottom: 20px;
+    }
+    #chat-close{padding-left: 280px;}
+    #chat-header {padding: 24px 32px;width: 370px;}
+    #chat-title{font-size: 32px;}
+    #chat-subtitle{font-size: 20px;padding-top: 20px;}
+    #chat-title-2{font-size: 16px;}
+    #chat-leave{margin-top: -40px;width: 320px;margin-left: 26px;padding: 16px; height: 163px;}
+    #chat-social{margin-top: 20px;width: 320px;margin-left: 26px;height: 64px;padding: 0px;}
+    .social-link{padding: 8px 24px;}
+    .social-icons{
+        right: -190px;
+        top: -20px;
+    }
+    #chat-footer{margin-top: 20px;width: 368px;margin-left: -26px;}
+    #send-button{padding:24px;font-size: 16px;}
+    #message-input{font-size: 18px;}
+    #send-button{padding: 20px;}
+    .btn-select{height: 40px;}
+
+  }
+  
+
+  @media screen and (max-width: 458px) {
+
+    .popup{
+        width: 340px;
+        height: 296px;
+        top: 32%;
+    }
+    .popup-product-pic{
+        width: 320px;
+        left: 10px;
+        top: 10px;
+    }
+    .chips{height: 64px;top: 44px;}
+    .breadcrumbs {
+        padding-left: 40px;
+        left: 0;
+        top: 0px;
+        height: 64px;
+    }
+    .breadcrumbs-index-a{font-size: 18px;}
+    .breadcrumbs-index-focus-a{font-size: 18px;}
+    .product-ricenoodle-beefnoodle-picwrefer{
+        top: 112px;
+        align-items: start;
+        left: 40px;
+    }
+    .btn-product-favorite-big:active::before{
+        left: 20px;
+        top: 12px;
+        width: 13px;
+        height: 21px;
+      }
+      .btn-product-favorite-big:active:after {
+        top: 12px;
+        left: 6px;
+    }
+    .btn-product-favorite-big:hover  {
+        background: none;
+      }
+    .product-refer-bigtitle{font-size: 20px;width: 100%;}
+    .product-refer{gap: 20px;width: 325px;}
+    .product-refer-line{width: 325px;}
+    .line-55{top: 1052px;
+        width: 90%;
+        left: 5%;
+    }
+    .product-functionbuttons {
+        top: 1064px;}
+
+
+    .product-functionbuttons-a{font-size: 18px;}
+    .btn-product-intro{
+        font-size: 18px;height: 46px;    
+        border-width: 0px 0px 3px 0px;}
+    .product-refer-focus{font-size: 18px;width: 100%;}
+    .product-refer-memberdiscountad{font-size: 18px;width: 100%;}
+
+    .product-refer-evaluate{transform: scale(0.8); width: 393px;gap: 77px;}
+    .product-refer-evaluate{left: -36px;gap: 72px;}
+    .product-refer-evaluate-a{position: relative;padding-left: 12px;}
+
+
+    .btn-product-favorite-big{width: 48px;height: 48px;}
+    .btn_product_favorite_big-a{display: none;}
+    .product-list{height: 2970px;}
+    .othersviewing{top: 84.3%;height: 520px;}
+    .beefnoodle-pic-big-left-top-1{display: none;}
+    .beefnoodle-pic-big-left-middle-1{display: none;}
+    .beefnoodle-pic-big-left-bottom-1{display: none;}
+    .beefnoodle-pic-big-right-1{left: 0px;top: 0px;height: 320px;width: 320px;position: relative;}
+    .productlist-ricenoodle-beefnoodle{width: 320px;height: 320px;position: relative;}
+    .btn-zoom-out-fr{width: 40px;height: 40px;}
+    .btn-zoom-out{left: 264px;top: 264px;}
+    .btn-zoom-out-fr{width: 0.0000001px;height: 0.0000001px;}
+    .product-refer-pricewfollow{gap: 64px;}
+    .product-refer-stepperwaddcart{display: contents;}
+    .pc-btn-product-addcart2{width: 320px;height: 48px;}
+    .acc{width: 240px;height: 40px;}
+    .minus, .plus{width: 130px;height: 40px;}
+    .minus{left: -14px;}
+    .plus{left: 124px;}
+    .stepper{gap: 17px;}
+    .share-default{display: none;}
+
+    .evaluate-stars{gap: 16px;}
+    .beefnoodle-product-intro{top: 640px;}
+    .beefnoodle-product-introword{gap: 24px;}
+    .beefnoodle-product-introword-title1{font-size: 24px;}
+    .beefnoodle-product-intro-refer-a{font-size: 18px;width: 320px;}
+    .beefnoodle-pic-referbig{width: 320px;height: 200px;}
+    .beefnoodle-product-intro{gap: 44px;}
+    .feedback-frame{top: 1060px;transform: scale(0.8);}
+    .showfeedback{width: auto;}
+    .feedback-1 {gap: 20px;flex-direction: column;}
+    .feedback-2 {gap: 20px;flex-direction: column;}
+    .feedback-3 {gap: 20px;flex-direction: column;}
+    .feedback-4 {gap: 20px;flex-direction: column;}
+    .feedback-5 {gap: 20px;flex-direction: column;}
+    .showfeedback-5-st{gap: 16px;}
+    .showfeedback-4-st{gap: 16px;}
+    .showfeedback-3-st{gap: 16px;}
+    .showfeedback-2-st{gap: 16px;}
+    .showfeedback-1-st{gap: 16px;}
+
+    .introproducts-wsubtitle{gap: 24px;}
+    .subtitle{font-size: 24px;  height: 0px;  width: 190px;}
+
+    .card-list{gap: 0;}
+    .introproducts{padding: 0px 10px 20px 10px;width: 360px;transform: scale(0.8);}
+    .introproducts-wsubtitle{top: 0px;gap: 8px;}
+    .nutrition-label{width: 320px;height: 320px;}
+    .notification-custom {
+        width: 320px;
+        height: 60px;
+
+      }
+      #chat-window {
+        right: 13px;}
+    .subtitle {
+        font-size: 22px;
+        width: 230px;
+    }
+    .btn-product-favorite-big:hover{background-color: none;}
+  }
+  @media (max-width: 390px) {
+    .introproducts-wsubtitle{left: 20px;}
+    }
