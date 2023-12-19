@@ -10,6 +10,7 @@
 @media screen and (max-width: 1560px) {
     .product-ricenoodle-beefnoodle-picwrefer{
         left: 130px;
+        gap: 40px;
         align-items: center;
     }
     .introproducts-wsubtitle{left: 96px;}

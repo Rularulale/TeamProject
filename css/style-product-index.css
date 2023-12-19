@@ -450,7 +450,7 @@ border-radius: 50%;
   line-height: var(--title-1-regular-line-height, 110%);
   font-weight: var(--title-1-regular-font-weight, 400);
 }
-.esg2 {
+.esg-a {
   color: var(--secondary, #7da528);
   text-align: left;
   font-family: var(--body-regular-font-family, "Roboto-Regular", sans-serif);

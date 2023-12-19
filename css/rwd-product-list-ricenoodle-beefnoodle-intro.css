@@ -11,6 +11,7 @@
     .product-ricenoodle-beefnoodle-picwrefer{
         left: 130px;
         align-items: center;
+        gap: 40px;
     }
     
     .introproducts-wsubtitle{left: 70px;}
@@ -45,7 +46,6 @@
     }
     .product-ricenoodle-beefnoodle-picwrefer{
         flex-direction: column;
-        gap: 40px;
         top: 200px;
         left: 20%;
         right: 20%;
