@@ -46,7 +46,7 @@ $(document).ready(function () {
 
     function updateCountdown() {
         const now = new Date().getTime();
-        const deadline = new Date('2023-12-31T23:00:00').getTime();
+        const deadline = new Date('2024-12-31T23:00:00').getTime();
         const timeLeft = deadline - now;
 
         const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
